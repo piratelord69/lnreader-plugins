@@ -229,7 +229,7 @@
 		"name": "BoxNovel",
 		"site": "https://novlove.com/",
 		"lang": "English",
-		"version": "1.0.13",
+		"version": "1.0.14",
 		"url": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.js/src/plugins/english/BoxNovel[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/public/static/multisrc/madara/boxnovel/icon.png"
 	},
